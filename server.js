@@ -13,5 +13,5 @@ console.log(supervillains.random());
 superheroes.all.forEach(hero => {
 
 });
-console.log(`${supervillains.random} fights ${superheroes.random}`);
+console.log(`${supervillains.random()} fights ${superheroes.random()}`);
 console.log(superheroes.random(), "fights" , supervillains.random());
